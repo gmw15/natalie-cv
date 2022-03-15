@@ -1,0 +1,19 @@
+increase skills all the way
+add links to email etc
+add logo
+
+event 1:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Llsg0f5Os9c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+grab image
+
+event 2:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qPfWI9SgLzw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+fix links in portfolio
+grab image
+
+event 7:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OhksswUXAvo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+bg photo
+
+achievements
